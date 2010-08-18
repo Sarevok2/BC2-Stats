@@ -1,0 +1,57 @@
+"a","Ammo Box",1200
+"a","XM8 Prototype",3000
+"a","40mm Smoke Launcher",5500
+"a","F2000 Assault",8000
+"a","40mm Shotgun",11000
+"a","Red Dot Sight",14000
+"a","4x Rifle Scope",17000
+"a","STG.77 AUG",20000
+"a","Marksman Assault Rifle",24000
+"a","AN-94 Abakan",28000
+"a","M416",35000
+"a","M16A2",47000
+"e","Repair Tool",1000
+"e","SCAR-L Carbine",2500
+"e","Anti Tank Mine",4400
+"e","XM8 Compact",6500
+"e","M2 Carl Gustav AT",8700
+"e","Red Dot Sight",11000
+"e","4x Rifle Scope",13500
+"e","AKS-74U Krinkov",16000
+"e","M136 AT4",19000
+"e","Marksman SMG",21500
+"e","UZI",26000
+"e","PP-2000 Avtomat",32000
+"e","UMP-45",43000
+"r","Motion Sensor",900
+"r","Type 88 Sniper",2200
+"r","Mortar Strike",4000
+"r","SV98 Snaiperskaya",6000
+"r","4x Rifle Scope",8000
+"r","12x High Power Scope",10000
+"r","Red Dot Sight",12500
+"r","SVU Snaiperskaya Short",15000
+"r","Sniper Spotting Scope",17000
+"r","GOL Sniper Magnum",21000
+"r","VSS Snaiperskaya Special",26000
+"r","M95 Sniper",34000
+"m","Medic Kit",1400
+"m","M249 SAW",3300
+"m","Defibrillator",5800
+"m","Type 88 LMG",8600
+"m","Medic Kit Improved Health",12000
+"m","Red Dot Sight",15000
+"m","4x Rifle Scope",18000
+"m","Medic Kit Improved Range",21000
+"m","M60 LMG",25000
+"m","Marksman LMG Training",28000
+"m","XM8 LMG",34000
+"m","MG36",42000
+"m","MG3",52000
+"v","Active Armor Upgrade",1100
+"v","Electronic Warfare",2400
+"v","Improved Weapons",3600
+"v","Quick Reload",5000
+"v","Smoke Countermeasures",6500
+"v","High Power Optics",8000
+"v","Alternate Weapons",10000

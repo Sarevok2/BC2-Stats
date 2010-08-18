@@ -1,0 +1,153 @@
+{ "head": "<!--<caption></caption>-->
+    <tr>
+        <th>Position</th>
+        <th>Rank</th>
+        <th>Soldier</th>
+        <th class="link selected"><a href="score"><span>Score</span></a></th><th class="link"><a href="sc_squad"><span>Squad Score</span></a></th><th class="link"><a href="kills"><span>Kills</span></a></th><th class="link"><a href="time"><span>Time Played</span></a></th><th class="link"><a href="dogt"><span>Total Dogtags</span></a></th>        <th>VS.</th>
+    </tr>", "my_row": "", "search_row": "", "time": "<tbody><tr><th colspan='9' class='leaderboard-time'>Leaderboard last updated 34 min 45 sec ago</th></tr>", "body": "<tr>
+    <td>1</td>
+    <td><img label='General of the Army' titel='General of the Army' src='http://cdn.battlefieldbadcompany2.com//files/gui/img/stats/ranks/tiny/R050.png' /></td>
+    <td class="soldier"><a class='use-tooltip' title='View profile' href="stats?persona=226636125\x26platform=pc"><div>STSGiggo</div></a></td>
+    <td class="link selected">15 582 231</td><td class="link">1 309 775</td><td class="link">72 208</td><td class="link">30d 18h 39m</td><td class="link">1 507</td>    <td>
+        <a href="?oponent=226636125\x26platform=pc" class="leaderboards-compare use-tooltip" title='Compare'><span>VS.</span></a></td>
+    </td>
+</tr><tr>
+    <td>2</td>
+    <td><img label='General of the Army' titel='General of the Army' src='http://cdn.battlefieldbadcompany2.com//files/gui/img/stats/ranks/tiny/R050.png' /></td>
+    <td class="soldier"><a class='use-tooltip' title='View profile' href="stats?persona=233739666\x26platform=pc"><div>TNEXO</div></a></td>
+    <td class="link selected">14 562 134</td><td class="link">688 430</td><td class="link">80 223</td><td class="link">39d 03h 13m</td><td class="link">1 312</td>    <td>
+        <a href="?oponent=233739666\x26platform=pc" class="leaderboards-compare use-tooltip" title='Compare'><span>VS.</span></a></td>
+    </td>
+</tr><tr>
+    <td>3</td>
+    <td><img label='General of the Army' titel='General of the Army' src='http://cdn.battlefieldbadcompany2.com//files/gui/img/stats/ranks/tiny/R050.png' /></td>
+    <td class="soldier"><a class='use-tooltip' title='View profile' href="stats?persona=232071827\x26platform=pc"><div>meepster</div></a></td>
+    <td class="link selected">14 244 514</td><td class="link">560 080</td><td class="link">67 165</td><td class="link">29d 14h 42m</td><td class="link">690</td>    <td>
+        <a href="?oponent=232071827\x26platform=pc" class="leaderboards-compare use-tooltip" title='Compare'><span>VS.</span></a></td>
+    </td>
+</tr><tr>
+    <td>4</td>
+    <td><img label='General of the Army' titel='General of the Army' src='http://cdn.battlefieldbadcompany2.com//files/gui/img/stats/ranks/tiny/R050.png' /></td>
+    <td class="soldier"><a class='use-tooltip' title='View profile' href="stats?persona=235608340\x26platform=pc"><div>Patron_Sergi</div></a></td>
+    <td class="link selected">13 698 901</td><td class="link">1 219 865</td><td class="link">39 943</td><td class="link">28d 14h 02m</td><td class="link">682</td>    <td>
+        <a href="?oponent=235608340\x26platform=pc" class="leaderboards-compare use-tooltip" title='Compare'><span>VS.</span></a></td>
+    </td>
+</tr><tr>
+    <td>5</td>
+    <td><img label='General of the Army' titel='General of the Army' src='http://cdn.battlefieldbadcompany2.com//files/gui/img/stats/ranks/tiny/R050.png' /></td>
+    <td class="soldier"><a class='use-tooltip' title='View profile' href="stats?persona=233154526\x26platform=pc"><div>Leitna</div></a></td>
+    <td class="link selected">13 585 860</td><td class="link">876 635</td><td class="link">49 356</td><td class="link">26d 19h 06m</td><td class="link">1 606</td>    <td>
+        <a href="?oponent=233154526\x26platform=pc" class="leaderboards-compare use-tooltip" title='Compare'><span>VS.</span></a></td>
+    </td>
+</tr><tr>
+    <td>6</td>
+    <td><img label='General of the Army' titel='General of the Army' src='http://cdn.battlefieldbadcompany2.com//files/gui/img/stats/ranks/tiny/R050.png' /></td>
+    <td class="soldier"><a class='use-tooltip' title='View profile' href="stats?persona=226776608\x26platform=pc"><div>.KiNG.</div></a></td>
+    <td class="link selected">13 305 369</td><td class="link">343 100</td><td class="link">71 384</td><td class="link">22d 11h 42m</td><td class="link">3 782</td>    <td>
+        <a href="?oponent=226776608\x26platform=pc" class="leaderboards-compare use-tooltip" title='Compare'><span>VS.</span></a></td>
+    </td>
+</tr><tr>
+    <td>7</td>
+    <td><img label='General of the Army' titel='General of the Army' src='http://cdn.battlefieldbadcompany2.com//files/gui/img/stats/ranks/tiny/R050.png' /></td>
+    <td class="soldier"><a class='use-tooltip' title='View profile' href="stats?persona=230704560\x26platform=pc"><div>Genius_man</div></a></td>
+    <td class="link selected">13 122 419</td><td class="link">893 605</td><td class="link">59 069</td><td class="link">24d 03h 31m</td><td class="link">5 001</td>    <td>
+        <a href="?oponent=230704560\x26platform=pc" class="leaderboards-compare use-tooltip" title='Compare'><span>VS.</span></a></td>
+    </td>
+</tr><tr>
+    <td>8</td>
+    <td><img label='General of the Army' titel='General of the Army' src='http://cdn.battlefieldbadcompany2.com//files/gui/img/stats/ranks/tiny/R050.png' /></td>
+    <td class="soldier"><a class='use-tooltip' title='View profile' href="stats?persona=233717283\x26platform=pc"><div>emotionalol</div></a></td>
+    <td class="link selected">12 846 868</td><td class="link">594 840</td><td class="link">63 115</td><td class="link">29d 11h 39m</td><td class="link">2 235</td>    <td>
+        <a href="?oponent=233717283\x26platform=pc" class="leaderboards-compare use-tooltip" title='Compare'><span>VS.</span></a></td>
+    </td>
+</tr><tr>
+    <td>9</td>
+    <td><img label='General of the Army' titel='General of the Army' src='http://cdn.battlefieldbadcompany2.com//files/gui/img/stats/ranks/tiny/R050.png' /></td>
+    <td class="soldier"><a class='use-tooltip' title='View profile' href="stats?persona=232330875\x26platform=pc"><div>N|boZzZ</div></a></td>
+    <td class="link selected">12 797 737</td><td class="link">693 295</td><td class="link">69 449</td><td class="link">28d 16h 46m</td><td class="link">3 291</td>    <td>
+        <a href="?oponent=232330875\x26platform=pc" class="leaderboards-compare use-tooltip" title='Compare'><span>VS.</span></a></td>
+    </td>
+</tr><tr>
+    <td>10</td>
+    <td><img label='General of the Army' titel='General of the Army' src='http://cdn.battlefieldbadcompany2.com//files/gui/img/stats/ranks/tiny/R050.png' /></td>
+    <td class="soldier"><a class='use-tooltip' title='View profile' href="stats?persona=229013808\x26platform=pc"><div>Haggis McMutton</div></a></td>
+    <td class="link selected">12 604 246</td><td class="link">603 050</td><td class="link">60 240</td><td class="link">33d 16h 37m</td><td class="link">3 421</td>    <td>
+        <a href="?oponent=229013808\x26platform=pc" class="leaderboards-compare use-tooltip" title='Compare'><span>VS.</span></a></td>
+    </td>
+</tr><tr>
+    <td>11</td>
+    <td><img label='General of the Army' titel='General of the Army' src='http://cdn.battlefieldbadcompany2.com//files/gui/img/stats/ranks/tiny/R050.png' /></td>
+    <td class="soldier"><a class='use-tooltip' title='View profile' href="stats?persona=226551481\x26platform=pc"><div>minirambo</div></a></td>
+    <td class="link selected">12 585 859</td><td class="link">903 780</td><td class="link">67 568</td><td class="link">30d 11h 12m</td><td class="link">598</td>    <td>
+        <a href="?oponent=226551481\x26platform=pc" class="leaderboards-compare use-tooltip" title='Compare'><span>VS.</span></a></td>
+    </td>
+</tr><tr>
+    <td>12</td>
+    <td><img label='General of the Army' titel='General of the Army' src='http://cdn.battlefieldbadcompany2.com//files/gui/img/stats/ranks/tiny/R050.png' /></td>
+    <td class="soldier"><a class='use-tooltip' title='View profile' href="stats?persona=226534148\x26platform=pc"><div>mo[N]k</div></a></td>
+    <td class="link selected">12 466 487</td><td class="link">587 070</td><td class="link">63 720</td><td class="link">25d 04h 38m</td><td class="link">3 782</td>    <td>
+        <a href="?oponent=226534148\x26platform=pc" class="leaderboards-compare use-tooltip" title='Compare'><span>VS.</span></a></td>
+    </td>
+</tr><tr>
+    <td>13</td>
+    <td><img label='General of the Army' titel='General of the Army' src='http://cdn.battlefieldbadcompany2.com//files/gui/img/stats/ranks/tiny/R050.png' /></td>
+    <td class="soldier"><a class='use-tooltip' title='View profile' href="stats?persona=230227691\x26platform=pc"><div>Skobel.</div></a></td>
+    <td class="link selected">12 446 066</td><td class="link">649 190</td><td class="link">62 491</td><td class="link">29d 19h 56m</td><td class="link">866</td>    <td>
+        <a href="?oponent=230227691\x26platform=pc" class="leaderboards-compare use-tooltip" title='Compare'><span>VS.</span></a></td>
+    </td>
+</tr><tr>
+    <td>14</td>
+    <td><img label='General of the Army' titel='General of the Army' src='http://cdn.battlefieldbadcompany2.com//files/gui/img/stats/ranks/tiny/R050.png' /></td>
+    <td class="soldier"><a class='use-tooltip' title='View profile' href="stats?persona=232518667\x26platform=pc"><div>Dj.Gurbeti</div></a></td>
+    <td class="link selected">12 419 608</td><td class="link">2 477 215</td><td class="link">18 703</td><td class="link">34d 08h 46m</td><td class="link">859</td>    <td>
+        <a href="?oponent=232518667\x26platform=pc" class="leaderboards-compare use-tooltip" title='Compare'><span>VS.</span></a></td>
+    </td>
+</tr><tr>
+    <td>15</td>
+    <td><img label='General of the Army' titel='General of the Army' src='http://cdn.battlefieldbadcompany2.com//files/gui/img/stats/ranks/tiny/R050.png' /></td>
+    <td class="soldier"><a class='use-tooltip' title='View profile' href="stats?persona=226714767\x26platform=pc"><div>ChASLib</div></a></td>
+    <td class="link selected">12 404 534</td><td class="link">684 280</td><td class="link">55 323</td><td class="link">39d 21h 18m</td><td class="link">1 175</td>    <td>
+        <a href="?oponent=226714767\x26platform=pc" class="leaderboards-compare use-tooltip" title='Compare'><span>VS.</span></a></td>
+    </td>
+</tr><tr>
+    <td>16</td>
+    <td><img label='General of the Army' titel='General of the Army' src='http://cdn.battlefieldbadcompany2.com//files/gui/img/stats/ranks/tiny/R050.png' /></td>
+    <td class="soldier"><a class='use-tooltip' title='View profile' href="stats?persona=232954112\x26platform=pc"><div>Ghost_Machine</div></a></td>
+    <td class="link selected">12 290 387</td><td class="link">776 810</td><td class="link">62 516</td><td class="link">30d 01h 22m</td><td class="link">4 605</td>    <td>
+        <a href="?oponent=232954112\x26platform=pc" class="leaderboards-compare use-tooltip" title='Compare'><span>VS.</span></a></td>
+    </td>
+</tr><tr>
+    <td>17</td>
+    <td><img label='General of the Army' titel='General of the Army' src='http://cdn.battlefieldbadcompany2.com//files/gui/img/stats/ranks/tiny/R050.png' /></td>
+    <td class="soldier"><a class='use-tooltip' title='View profile' href="stats?persona=232846665\x26platform=pc"><div>SeelSorger69</div></a></td>
+    <td class="link selected">12 230 517</td><td class="link">599 480</td><td class="link">60 301</td><td class="link">35d 20h 33m</td><td class="link">1 554</td>    <td>
+        <a href="?oponent=232846665\x26platform=pc" class="leaderboards-compare use-tooltip" title='Compare'><span>VS.</span></a></td>
+    </td>
+</tr><tr>
+    <td>18</td>
+    <td><img label='General of the Army' titel='General of the Army' src='http://cdn.battlefieldbadcompany2.com//files/gui/img/stats/ranks/tiny/R050.png' /></td>
+    <td class="soldier"><a class='use-tooltip' title='View profile' href="stats?persona=226746344\x26platform=pc"><div>SGC Gambit</div></a></td>
+    <td class="link selected">12 073 462</td><td class="link">613 560</td><td class="link">61 779</td><td class="link">27d 00h 27m</td><td class="link">1 705</td>    <td>
+        <a href="?oponent=226746344\x26platform=pc" class="leaderboards-compare use-tooltip" title='Compare'><span>VS.</span></a></td>
+    </td>
+</tr><tr>
+    <td>19</td>
+    <td><img label='General of the Army' titel='General of the Army' src='http://cdn.battlefieldbadcompany2.com//files/gui/img/stats/ranks/tiny/R050.png' /></td>
+    <td class="soldier"><a class='use-tooltip' title='View profile' href="stats?persona=226720537\x26platform=pc"><div>Dan AWWYEAAAH</div></a></td>
+    <td class="link selected">12 059 067</td><td class="link">524 515</td><td class="link">57 544</td><td class="link">22d 03h 36m</td><td class="link">871</td>    <td>
+        <a href="?oponent=226720537\x26platform=pc" class="leaderboards-compare use-tooltip" title='Compare'><span>VS.</span></a></td>
+    </td>
+</tr><tr>
+    <td>20</td>
+    <td><img label='General of the Army' titel='General of the Army' src='http://cdn.battlefieldbadcompany2.com//files/gui/img/stats/ranks/tiny/R050.png' /></td>
+    <td class="soldier"><a class='use-tooltip' title='View profile' href="stats?persona=226528029\x26platform=pc"><div>Panther</div></a></td>
+    <td class="link selected">11 951 187</td><td class="link">643 900</td><td class="link">62 645</td><td class="link">31d 21h 01m</td><td class="link">4 041</td>    <td>
+        <a href="?oponent=226528029\x26platform=pc" class="leaderboards-compare use-tooltip" title='Compare'><span>VS.</span></a></td>
+    </td>
+</tr>", "paging": "<div class="paging">
+        <a class="left disabled" href="" id='leaderboard-left'></a>
+    <div>1 TO 20 TOP SOLDIERS</div>
+        <a class="right enabled" href="21" id='leaderboard-right'></a>
+        <div style='clear: both'></div>
+</div>
+<div style='clear: both'></div>" }

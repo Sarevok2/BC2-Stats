@@ -1,0 +1,32 @@
+body { background-color:#222222; color: #777700; font-family: Palatino;}
+#statbox { position: fixed; visibility: hidden; background-color:#DDDDDD;}
+ul#tabs { list-style-type: none; margin: 30px 0 0 0; padding: 0 0 0.3em 0; }
+ul#tabs li { display: inline; }
+ul#tabs li a { color: #42454a; background-color: #666666; border: 1px solid #c9c3ba; border-bottom: none; padding: 0.3em; text-decoration: none; }
+ul#tabs li a:hover { background-color: #f1f0ee; }
+ul#tabs li a.selected { color: #000; background-color: #333333; font-weight: bold; padding: 0.7em 0.3em 0.38em 0.3em; }
+div.statArea { border: 1px solid #c9c3ba; padding: 0.5em; background-color: #333333; }
+div.itemTabs { border: 1px solid #c9c3ba; padding: 0.5em; background-color: #333333; }
+div.itemTabs.hide { display: none; }
+div.header {background-color:#111111; color:#999900;border: 1px solid #c9c3ba;padding: 0.3em 0.5em 0.3em 0.3em;}
+table.statgrid {padding: 0.2em; border: 1px solid #c9c3ba;width: 100%}
+table.statgrid td{background-color:#999999; color:#000000; text-align: center;}
+table.statgrid th{padding: 0.2em; background-color:#111111; color:#999900;}
+table.statgrid.standard td {padding: 0.2em;}
+table.statgrid.itemstats td a:link {display:block; text-align: center; height:40px;padding: 0.2em;text-decoration: none;}
+table.statgrid.itemstats td a:hover {background-color:#888800;}
+table.outer {width: 100%;}
+#content {width: 1150px; margin-left: auto; margin-right: auto;}
+ul.navbar {list-style-type: none;margin:0;padding:0;overflow:hidden;}
+ul.navbar li {float: left;}
+ul.navbar li a:link,ul.navbar li a:visited {display:block;width: 120px;background-color:#000000; color: #999999;padding: 4px; text-align: center;text-decoration: none;}
+ul.navbar li a:hover {background-color:#444400;}
+div.nav {background-color:#000000;}
+table.itemstatpopup td {text-align: right;}
+table.itemstatpopup th {text-align: left;}
+table.forumtable {border-collapse:collapse; width: 100%; background-color: #333333; color: 999900;}
+table.forumtable th, table.forumtable td {border: 1px solid #999999; padding: 2px 2px 2px 2px;}
+table.forumtable th {background-color:#111111; text-align:left;}
+table.forumtable a:link,table.forumtable a:visited {color: #999900;}
+table.logintable td {border: none;}
+h2 {padding: 0 0 0 0;}
